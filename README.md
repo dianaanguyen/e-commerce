@@ -13,3 +13,5 @@ Clone the repository and install NPM (npm i).
 ## Usage <a id="usage"></a>
 Source the database with MySQL. Npm run seed in order to run the seed. Run the application in the command line by running "node server.js". Use Insomnia to test API routes using GET, POST, PUT, DELETE for categories, products, and tags.
 ## Walkthrough Video <a id="walkthrough-video"></a>
+https://user-images.githubusercontent.com/111664734/223065245-82741d53-bd0c-41c6-9b48-ff8637e7cb9a.mp4
+
